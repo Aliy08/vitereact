@@ -56,6 +56,7 @@ function Home() {
           Hi, I'm Nabila Aliyyuanda Fortun. I'm 17 years old. This is the first page of the website I created!
           Oh, and by the way—I love watching K-Dramas. How about you?
           Besides that, I also have some basic skills in design, photography, and videography.
+          Nice to meet u guys!
         </p>
 
         <div className="sosial-icons">
